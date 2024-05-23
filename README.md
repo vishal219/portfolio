@@ -106,20 +106,20 @@ Eg:
 
 ```javascript
 export const personalData = {
-  name: "Sameer Singh",
+  name: "Vishal Thakur",
   profile: "/profile.jpg",
-  designation: "Software Developer",
-  description: "My name is Sameer Singh....",
-  email: "sameersingh7458@gmail.com",
-  phone: "+917458855350",
-  address: "Delhi India",
-  github: "https://github.com/sameers-b",
+  designation: "iOS Developer",
+  description: "My name is Vishal Thakur....",
+  email: "vstsm219319@gmail.com",
+  phone: "+917983038928",
+  address: "Greater Noida India",
+  github: "https://github.com/vishal219",
   facebook: "",
-  linkedIn: "https://www.linkedin.com/in/sameer-singh-a79178186/",
+  linkedIn: "https://www.linkedin.com/in/vishal-thakur-9b954b129/",
   twitter: "",
-  stackOverflow: "https://stackoverflow.com/users/18314715/sameer-singh",
+  stackOverflow: "https://stackoverflow.com/users/11102227/vishal-thakur",
   leetcode: "",
-  devUsername: "sameers_b",
+  devUsername: "Vishal Thakur",
   resume: "",
 };
 ```

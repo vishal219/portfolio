@@ -19,7 +19,7 @@ function Footer() {
               href={personalData?.linkedIn}
               className="text-[#16f2b3]"
             >
-              Sameer Singh
+              {personalData.name}
             </Link>
           </p>
           <div className="flex items-center gap-5">
