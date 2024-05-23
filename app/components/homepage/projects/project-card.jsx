@@ -64,6 +64,9 @@ function ProjectCard({ project }) {
               {` "` + project.description + `"`}
             </span>
           </div>
+          <div className="lg:ml-12">
+            <span className="text-gray-400">{`)`}</span>
+          </div>
           <div>
             <span className="text-gray-400">{`}`}</span>
           </div>
